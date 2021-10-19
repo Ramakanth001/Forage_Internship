@@ -1,4 +1,4 @@
-# forage_Internship
+# Forage_Internship
 Clifford chance conducted a global virtual internship event wherein the student is required to do 3 tasks as an intern. It is basically surrounded by ICO dawn raids, GDPR compliances and Regulations, Data Breaches and strategies to defend against claims by clients affected by breach
 
 
